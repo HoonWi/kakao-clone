@@ -13,7 +13,6 @@
   justify-content: space-between
 }
 .nav_btn {
-  
 }
 .nav__link {
   position: relative;
@@ -23,16 +22,4 @@
   position: absolute;
   left: 15px;
   bottom: 15px;
-}
-.nav__updates {
-  background-color: tomato;
-  width: 6px;
-  height: 6px;
-  border-radius: 3px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: absolute;
-  left: 28px;
-  bottom: 28px;
 }
