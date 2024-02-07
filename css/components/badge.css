@@ -12,23 +12,10 @@ font-weight: 600;
 
 .badge__red-dot {
   background-color: tomato;
-  width: 6px;
-  height: 6px;
-  border-radius: 3px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  width: 5px;
+  height: 5px;
+  border-radius: 2.5px;
   position: absolute;
-  left: 28px;
-  bottom: 28px;
-}
-
-.badge__update {
-background-color: tomato;
-width: 5px;
-height: 5px;
-border-radius: 2.5px;
-position: absolute;
-right: -6px;
-top: -7px;
+  right: -6px;
+  top: -7px;
 }
